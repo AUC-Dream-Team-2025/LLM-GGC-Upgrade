@@ -170,3 +170,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+
+src/Evaluation/llava_env
+qlora_mantis/bin
+src/Evaluation/test
+src/Evaluation/train
+src/Extracting Vision Encoder/encenv
