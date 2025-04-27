@@ -104,7 +104,7 @@ libclang==18.1.1
 llvmlite==0.44.0
 lm_eval==0.4.8
 lxml==5.3.2
-mantis-vl @ git+https://github.com/TIGER-AI-Lab/Mantis.git@fa5a57bd07a32558ff95356c7f76c0a926b4bb4d
+git+https://github.com/TIGER-AI-Lab/Mantis.git@fa5a57bd07a32558ff95356c7f76c0a926b4bb4d#egg=mantis-vl
 Markdown==3.8
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
